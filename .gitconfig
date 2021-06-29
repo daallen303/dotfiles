@@ -1,0 +1,7 @@
+[user]
+	email = daniel.allen@centrapay.com
+	name = Daniel Allen
+[push]
+	default = current
+[color]
+	ui = auto
